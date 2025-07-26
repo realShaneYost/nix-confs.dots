@@ -1,0 +1,22 @@
+# theme = GruvboxDark
+theme = nord
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+cursor-color = #FBF1C7
+cursor-style = underline
+split-divider-color = #FBF1C7
+font-size = 10
+
+# keybinds creations
+keybind = super+shift+left=new_split:left
+keybind = super+shift+right=new_split:right
+keybind = super+shift+down=new_split:down
+keybind = super+shift+up=new_split:up
+keybind = super+shift+t=new_tab
+
+# keybinds movements
+keybind = super+shift+space=goto_split:next
+keybind = super+shift+n=next_tab
+
+
